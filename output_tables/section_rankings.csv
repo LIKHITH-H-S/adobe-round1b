@@ -1,0 +1,22 @@
+Filename,Section Title,Page,Score
+adb2.json,Recent Developments in GNNs for Drug Discovery,1,0.6295
+adb2.json,Prediction of Drug-Drug Interactions,11,0.5275
+adb2.json,Prediction of Molecular Properties and Interactions,8,0.3566
+adb2.json,Representations of Molecules,3,0.2710
+adb2.json,Molecule Generation,4,0.2669
+adb3.json,Graph Neural Networks,1,0.6725
+adb3.json,for COVID-19 Drug Discovery,1,0.4189
+adb4.json,Graph Neural Networks for Drug Discovery: an,2,0.9874
+adb4.json,Graph Neural Networks for Drug Discovery: An Integrated Decision Support,1,0.9118
+adb4.json,Pipeline,1,0.0687
+adb4.json,integrated decision support pipeline,2,0.0132
+Basic Electronics.json,lab,1,0.2939
+Basic Electronics.json,RC,1,0.1583
+Basic Electronics.json,Basic Electronics,1,0.1450
+Basic Electronics.json,Experiments:,1,0.1160
+Basic Electronics.json,Studies on BJT,1,0.1106
+sample.json,": 4 research papers on ""Graph Neural Networks for",7,0.5764
+sample.json,"Drug Discovery""",7,0.5499
+sample.json,Network,5,0.2917
+sample.json,: PhD Researcher in Computational Biology,7,0.2690
+sample.json,"papers, What should I study for Organic Chemistry given the",7,0.2345
