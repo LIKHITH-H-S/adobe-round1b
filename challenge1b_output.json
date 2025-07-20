@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "input_documents": ["adb1.pdf", "adb2.pdf", "adb3.pdf", "adb4.pdf"],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-15T21:00:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "adb2.pdf",
+      "page_number": 4,
+      "section_title": "Molecule Generation",
+      "importance_rank": 1
+    },
+    {
+      "document": "adb2.pdf",
+      "page_number": 8,
+      "section_title": "Prediction of Molecular Properties and Interactions",
+      "importance_rank": 2
+    },
+    {
+      "document": "adb2.pdf",
+      "page_number": 14,
+      "section_title": "Benchmark Databases",
+      "importance_rank": 3
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 1,
+      "section_title": "GNNs for COVID-19 Drug Discovery",
+      "importance_rank": 4
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 2,
+      "section_title": "Dataset Construction",
+      "importance_rank": 5
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 4,
+      "section_title": "Results and Evaluation",
+      "importance_rank": 6
+    },
+    {
+      "document": "adb4.pdf",
+      "page_number": 1,
+      "section_title": "GNNs for Drug Discovery: An Integrated Pipeline",
+      "importance_rank": 7
+    },
+    {
+      "document": "adb4.pdf",
+      "page_number": 2,
+      "section_title": "Decision Support System",
+      "importance_rank": 8
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "adb2.pdf",
+      "page_number": 4,
+      "refined_text": "Molecule generation using GNNs applies deep generative models like VAEs and GANs to learn and create novel chemical structures optimized for drug-likeness and synthesizability."
+    },
+    {
+      "document": "adb2.pdf",
+      "page_number": 8,
+      "refined_text": "GNNs are employed to predict molecular properties and drug-target interactions, improving accuracy through message passing networks and leveraging rich graph-based molecular representations."
+    },
+    {
+      "document": "adb2.pdf",
+      "page_number": 14,
+      "refined_text": "The paper highlights widely used benchmark datasets like QM9, ZINC, and MoleculeNet, which support fair evaluation and comparison of GNN-based drug discovery models."
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 1,
+      "refined_text": "GNNs were applied to accelerate COVID-19 drug discovery by modeling protein-drug interactions, with insights into repurposing FDA-approved compounds for novel therapeutic pathways."
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 2,
+      "refined_text": "Dataset construction focused on integrating biological pathways, molecular graphs, and known COVID-19 targets, enabling supervised GNN training with structured biomedical data."
+    },
+    {
+      "document": "adb3.pdf",
+      "page_number": 4,
+      "refined_text": "Evaluation metrics like AUC, accuracy, and enrichment factor demonstrated that GNN models outperformed traditional approaches in identifying high-affinity drug candidates."
+    },
+    {
+      "document": "adb4.pdf",
+      "page_number": 1,
+      "refined_text": "An integrated pipeline combining GNN architectures with domain-specific preprocessing and post-analysis techniques is presented, aimed at practical decision support in early-stage drug discovery."
+    },
+    {
+      "document": "adb4.pdf",
+      "page_number": 2,
+      "refined_text": "The decision support module aggregates predictions, confidence scores, and structural insights to help researchers prioritize lead compounds for further validation."
+    }
+  ]
+}

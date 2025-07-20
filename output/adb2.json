@@ -1,0 +1,80 @@
+{
+  "title": "adb2",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Recent Developments in GNNs for Drug Discovery",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Representations of Molecules",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Molecule Generation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Prediction of Molecular Properties and Interactions",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Prediction of Drug-Drug Interactions",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Benchmark Databases",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Discussion and Conclusion",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Competing Interests",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Author Contributions Statement",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Acknowledgments",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "Appendix",
+      "page": 32
+    }
+  ]
+}
